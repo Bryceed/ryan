@@ -22,7 +22,7 @@
     "@discordjs/opus": "github:discordjs/opus",
     "@joshdb/core": "^1.2.1",
     "@joshdb/sqlite": "^1.1.7",
-    "better-sqlite3": "^7.1.0",
+    "better-sqlite3": "^7.4.3",
     "discord-ytdl-core": "^5.0.2",
     "discord.js": "^12.5.3",
     "dotenv": "^8.2.0",
